@@ -5,9 +5,18 @@ I like hardware like Arduino and Raspberry Pi and I am studying programming to a
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminpeter&count_bg=%23FF0000&title_bg=%23000000&icon=humblebundle.svg&icon_color=%23FFFFFF&title=visitant&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminpeter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitant&edge_flat=false)](https://github.com/minpeter)
 
 
 
 ## Contacts :postbox:
 - Discord: minpeter#5094
+
+[![test](https://img.shields.io/github/languages/count/beygee/survive)](https://github.com/minpeter)
+![test](https://img.shields.io/github/languages/top/beygee/survive)
+![test](https://img.shields.io/github/languages/code-size/beygee/survive)
+![test](https://img.shields.io/github/repo-size/beygee/survive)
+![test](https://img.shields.io/github/issues/beygee/survive)
+![test](https://img.shields.io/github/issues-closed/beygee/survive)
+![test](https://img.shields.io/github/commit-activity/w/beygee/survive)
+![test](https://img.shields.io/github/last-commit/beygee/survive)
