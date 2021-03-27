@@ -11,12 +11,3 @@ I like hardware like Arduino and Raspberry Pi and I am studying programming to a
 
 ## Contacts :postbox:
 - Discord: minpeter#5094
-
-[![test](https://img.shields.io/github/languages/count/beygee/survive)](https://github.com/minpeter)
-![test](https://img.shields.io/github/languages/top/beygee/survive)
-![test](https://img.shields.io/github/languages/code-size/beygee/survive)
-![test](https://img.shields.io/github/repo-size/beygee/survive)
-![test](https://img.shields.io/github/issues/beygee/survive)
-![test](https://img.shields.io/github/issues-closed/beygee/survive)
-![test](https://img.shields.io/github/commit-activity/w/beygee/survive)
-![test](https://img.shields.io/github/last-commit/beygee/survive)
