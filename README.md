@@ -6,6 +6,7 @@ I like hardware like Arduino and Raspberry Pi and I am studying programming to a
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminpeter&count_bg=%23FF0000&title_bg=%23000000&icon=humblebundle.svg&icon_color=%23FFFFFF&title=visitant&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fminpeter.github.io&count_bg=%23FF0000&title_bg=%23000000&icon=dev-dot-to.svg&icon_color=%23FFFFFF&title=minpeter%27s+DEV+blog&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## Contacts :postbox:
