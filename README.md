@@ -10,7 +10,3 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=minpeter&show_icons=true&theme=dark"/>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minpeter&langs_count=4&theme=dark" />
-<img src="https://github-profile-trophy.vercel.app/?username=minpeter&theme=onestar"/>
