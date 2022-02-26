@@ -11,3 +11,5 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=minpeter&show_icons=true&theme=dark"/>
+
+<figure><embed src="https://wakatime.com/share/@minpeter/0f44aaaf-d8af-4503-bb78-4cbe07117337.svg"></embed></figure>
