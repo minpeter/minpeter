@@ -1,8 +1,8 @@
 <h1 align="center">🚀 INFO 🚀</h1>
 
 <p align="center">
-다체로운  
-그러니까... 언어가!
+  
+ 한세고에서 갓생 살기  
   
 <p align="center">
 공부하면서 만들 예제를 저장하기 위해 생성한 repo의 경우 study tag을 검색하면 찾아볼수 있습니다.
