@@ -1,5 +1,5 @@
 <div align="center">
-  ### ✨ 민웅기 ﹒ minpeter ✨
+  <h3>✨ 민웅기 ﹒ minpeter ✨</h2>
 
 Junior hacker in the old sense  
 I want to move **forward!!**  
