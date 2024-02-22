@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>✨ minpeter ﹒ Wooggi Min (민웅기) ✨</h2>
+  <h3>✨ minpeter ﹒ Wooggi Min (민웅기) ✨</h3>
 
 
 **FriendliAI** <sub><sup>@friendliai FE developer (2023.09 ~ now)</sup></sub>  
